@@ -16,7 +16,7 @@ export default function LandingPage(){
             <header className="limitar-secao topo">
                 <img src="assets/barbearia-logo.png" alt="logo" className="logo"></img>
                 <button className={modoEscuro ? 'modo-escuro' : 'modo-claro' } onClick={alterarModo}>
-                    <img src={modoEscuro ?"assets/sun.png":"assets/moon.png"} alt="Icone do modo"></img>Dark
+                    <img src={modoEscuro ?"assets/sun.png":"assets/moon.png"} alt="Icone do modo"></img>{modoEscuro ? "Light":"Dark"}
                 </button>
             </header>
             <main>
