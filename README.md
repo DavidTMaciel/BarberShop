@@ -5,7 +5,7 @@ Landing page of a barbershop, with dark and light mode option.
 ![LigthMode](https://user-images.githubusercontent.com/107083288/220774269-816636bd-b1c9-4d83-bca2-4b27dc53a48c.png)
 
 
-![DarkMode](https://user-images.githubusercontent.com/107083288/220777758-f63989a8-4470-4b39-a25b-81ca9bb96e71.png)
+![DarkMode](https://user-images.githubusercontent.com/107083288/221419021-2bd9acbf-f62c-4343-8e46-3e51ce9f80f0.png)
 
 <h2>Technologies Used</h2>
 <ul>
